@@ -11,7 +11,7 @@
 
 BeesHybrid项目致力于跨端技术的研究与实践，我们将自上而下的去分析相关的技术原理与最佳实践。前端的技术自上而下大致可以分为以下18层，如下所示：
 
-- 浏览器、
+- 浏览器
 - Android（路线图）https://images2015.cnblogs.com/blog/47685/201610/47685-20161017144827185-112405259.jpg
 - iOS（路线图）http://ios.skyfox.org/route.html
 - 渲染引擎、JavaScript引擎
