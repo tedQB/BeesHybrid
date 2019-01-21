@@ -42,6 +42,7 @@ BeesHybrid项目致力于跨端技术的研究与实践，我们将自上而下�
 后续的文章会围绕着三大主题的原理分析与最佳实践来展开。第一次阅读本系列文章的同学，建议先阅读：
 
 - [跨端技术入门指南](https://github.com/BeesX/BeesHybrid/blob/master/doc/跨端技术入门指南.md)
+# <img src="https://camo.githubusercontent.com/f8f871ce54d8a5beaa498376699ab342d61f6c11/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031382f31312f372f313636656464626665316331646635353f773d39313426683d3135343726663d706e6726733d313632343533" alt="BeesFrontEnd" width="80" height="80" align="bottom"/> 
 
 ## 前端业务框架
 
